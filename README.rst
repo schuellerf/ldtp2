@@ -53,9 +53,9 @@ First checkout ldtp from github and cd into ldtp2.
 
 Then build and install.
 
-  $ python setup.py build
+  $ python3 setup.py build
 
-  $ sudo python setup.py install
+  $ sudo python3 setup.py install
 
 Note: If your GNOME version is less than or equal to 2.24, then use LDTPv1 (1.7.x)
 
